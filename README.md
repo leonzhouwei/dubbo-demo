@@ -3,4 +3,4 @@
 ## 要求
 - JDK 1.7 or later
 - Maven 3.x
-- ZooKeeper [3.3.3, 3.3.6]
+- ZooKeeper 3.3.3（含） ~ 3.3.6（含）
