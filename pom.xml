@@ -11,7 +11,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>1.7</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.0.2.RELEASE</spring.version>
 		<slf4j.version>1.6.6</slf4j.version>
